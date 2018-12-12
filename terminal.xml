@@ -1,0 +1,10 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myUserSpecifiedEnvs">
+      <map>
+        <entry key="GOPATH" value="/Volumes/journey/workspace" />
+        <entry key="PROJECT_DIR" value="$PROJECT_DIR$" />
+      </map>
+    </option>
+  </component>
+</application>
