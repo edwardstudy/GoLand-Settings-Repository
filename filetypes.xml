@@ -3,14 +3,16 @@
     <extensionMap>
       <mapping pattern="finish" type="Bash" />
       <mapping pattern="env-5" type="PLAIN_TEXT" />
-      <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping pattern="stderr" type="PLAIN_TEXT" />
-      <mapping pattern="release" type="PLAIN_TEXT" />
+      <mapping pattern="stdout" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-nobuild" type="PLAIN_TEXT" />
       <mapping pattern="generate" type="PLAIN_TEXT" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
       <mapping pattern="16f4b97fe7232525ab1c2ee5ce595c56014a65b2" type="PLAIN_TEXT" />
+      <mapping pattern="build-nobuild-image" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="deployer-error" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".cmderr" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="coverprofile" type="PLAIN_TEXT" />
